@@ -1,6 +1,5 @@
 ### 👩‍💻 Yejin Lee
 <br/>
-<br/>
 
 ### 🖊️ Education
 
@@ -17,6 +16,3 @@ Computer Science (2020.01 ~ 2020.05 / Exchange Student)
 <br/>
 ### 🔗 Contact Information
 <a href="mailto:valen0616@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://instagram.com/yleeej" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
-<br/>
-<br/>

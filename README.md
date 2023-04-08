@@ -1,4 +1,4 @@
-### 👩‍💻 Yejin Lee
+# 👩‍💻 Yejin Lee
 <br/>
 
 ### 🖊️ Education
